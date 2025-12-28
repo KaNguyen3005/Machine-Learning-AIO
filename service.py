@@ -10,4 +10,8 @@ def percentage_distribution(scores):
             bins["80-89"] += 1
         elif score >= 70:
             bins["70-79"] += 1
+        elif score >= 60:
+            bins["60-69"] += 1
+        else:
+            bins["<60"] += 1
     return bins
