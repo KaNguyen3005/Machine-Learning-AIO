@@ -1,0 +1,46 @@
+[
+{"first_name":"Peter",
+"last_name":"Lambert",
+ "id":1,
+ "st_code":"N19CQAT-01-001",
+ "gender":1,
+ "scores":[
+  {"name":"History", "score":9.0, "code":"HI", "id":1},
+  {"name":"Physical", "score":7.0, "code":"PH", "id":2},
+  {"name":"Math A1","score":8.0,"code":"M1","id":3},
+  {"name":"Math A2","score":8.5,"code":"M2","id":4}]
+ },
+ {"first_name":"John",
+ "last_name":"Doe",
+ "id":2,
+ "gender":1,
+ "st_code":"N19CQAT-01-002",
+ "scores":[
+  {"name":"History","score":5.0,"code":"HI","id":1},
+  {"name":"Physical","score":7.0,"code":"PH","id":2},
+  {"name":"Math A1","score":9.0,"code":"M1","id":3},
+  {"name":"Math A2","score":6.5,"code":"M2","id":4}]
+ },
+ {"first_name":"Joe",
+   "last_name":"Doe",
+ "gender":0,
+ "id":3,
+ "st_code":"N19CQAT-01-003",
+ "scores":[
+  {"name":"History","score":5.0,"code":"HI","id":1},
+  {"name":"Physical","score":7.0,"code":"PH","id":2},
+  {"name":"Math A1","score":9.0,"code":"M1","id":3},
+  {"name":"Math A2","score":6.5,"code":"M2","id":4}]
+ },
+ {"first_name":"Angel",
+ "last_name":"Smith",
+ "gender":0,
+ "id":4,
+ "st_code":"N19CQAT-01-004",
+ "scores":[
+  {"name":"History","score":7.5,"code":"HI","id":1},
+  {"name":"Physical","score":8.0,"code":"PH","id":2},
+  {"name":"Math A1","score":6.5,"code":"M1","id":3},
+  {"name":"Math A2","score":8.5,"code":"M2","id":4}]
+ }
+]
